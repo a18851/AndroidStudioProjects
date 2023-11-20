@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "ipca.budget.a18851.app-mergeDebugResources-30:/layout/activity_add.xml",
+        "source": "ipca.budget.a18851.app-main-33:/layout/activity_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisg\\.gradle\\daemon\\8.0\\ipca.budget.a18851.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\luisg\\.gradle\\daemon\\8.0\\ipca.budget.a18851.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisg\\.gradle\\daemon\\8.0\\ipca.budget.a18851.app-mergeDebugResources-30:\\layout\\activity_add.xml",
+        "source": "C:\\Users\\luisg\\.gradle\\daemon\\8.0\\ipca.budget.a18851.app-main-33:\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisg\\.gradle\\daemon\\8.0\\ipca.budget.a18851.app-mergeDebugResources-30:\\layout\\activity_budget_list.xml",
+        "source": "C:\\Users\\luisg\\.gradle\\daemon\\8.0\\ipca.budget.a18851.app-main-33:\\layout\\activity_budget_list.xml"
+    }
+]

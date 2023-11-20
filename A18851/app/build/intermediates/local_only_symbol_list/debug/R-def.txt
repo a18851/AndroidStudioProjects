@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id addButton
+id budgetListView
+id buttonAdd
+id editTextDescription
+id editTextValue
+id listButton
+id sortButton
+id textViewTitle
+id totalBudgetButton
+layout activity_add
+layout activity_budget_list
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.A18851
+style Theme.A18851
+xml backup_rules
+xml data_extraction_rules

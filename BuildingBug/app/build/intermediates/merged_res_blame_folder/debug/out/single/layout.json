@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\luisg\\.gradle\\daemon\\8.0\\ipca.app.buildingbug.app-mergeDebugResources-31:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\luisg\\.gradle\\daemon\\8.0\\ipca.app.buildingbug.app-main-34:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "ipca.app.buildingbug.app-mergeDebugResources-31:/layout/activity_registration.xml",
+        "source": "ipca.app.buildingbug.app-main-34:/layout/activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisg\\.gradle\\daemon\\8.0\\ipca.app.buildingbug.app-mergeDebugResources-31:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\luisg\\.gradle\\daemon\\8.0\\ipca.app.buildingbug.app-main-34:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisg\\.gradle\\daemon\\8.0\\ipca.app.buildingbug.app-mergeDebugResources-31:\\layout\\activity_registration.xml",
+        "source": "C:\\Users\\luisg\\.gradle\\daemon\\8.0\\ipca.app.buildingbug.app-main-34:\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisg\\.gradle\\daemon\\8.0\\ipca.app.buildingbug.app-mergeDebugResources-31:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\luisg\\.gradle\\daemon\\8.0\\ipca.app.buildingbug.app-main-34:\\layout\\activity_main.xml"
+    }
+]
