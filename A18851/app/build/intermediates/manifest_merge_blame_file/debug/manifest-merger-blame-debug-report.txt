@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="ipca.budget.a18851"
+3    package="ipca.stock.a18851"
 4    android:versionCode="1"
 5    android:versionName="1.0" >
 6
@@ -10,12 +10,12 @@
 10
 11    <permission
 11-->[androidx.core:core:1.9.0] C:\Users\luisg\.gradle\caches\transforms-3\738147d0f85917708540e295877f94a3\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
-12        android:name="ipca.budget.a18851.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+12        android:name="ipca.stock.a18851.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
 12-->[androidx.core:core:1.9.0] C:\Users\luisg\.gradle\caches\transforms-3\738147d0f85917708540e295877f94a3\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
 13        android:protectionLevel="signature" />
 13-->[androidx.core:core:1.9.0] C:\Users\luisg\.gradle\caches\transforms-3\738147d0f85917708540e295877f94a3\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
 14
-15    <uses-permission android:name="ipca.budget.a18851.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+15    <uses-permission android:name="ipca.stock.a18851.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 15-->[androidx.core:core:1.9.0] C:\Users\luisg\.gradle\caches\transforms-3\738147d0f85917708540e295877f94a3\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
 15-->[androidx.core:core:1.9.0] C:\Users\luisg\.gradle\caches\transforms-3\738147d0f85917708540e295877f94a3\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 16
@@ -44,19 +44,19 @@
 29-->C:\Users\luisg\AndroidStudioProjects\A18851\app\src\main\AndroidManifest.xml:13:9-44
 30        <activity
 30-->C:\Users\luisg\AndroidStudioProjects\A18851\app\src\main\AndroidManifest.xml:15:9-17:40
-31            android:name="ipca.budget.a18851.AddActivity"
-31-->C:\Users\luisg\AndroidStudioProjects\A18851\app\src\main\AndroidManifest.xml:16:13-40
+31            android:name="ipca.stock.a18851.LowStockActivity"
+31-->C:\Users\luisg\AndroidStudioProjects\A18851\app\src\main\AndroidManifest.xml:16:13-45
 32            android:exported="false" />
 32-->C:\Users\luisg\AndroidStudioProjects\A18851\app\src\main\AndroidManifest.xml:17:13-37
 33        <activity
 33-->C:\Users\luisg\AndroidStudioProjects\A18851\app\src\main\AndroidManifest.xml:18:9-20:40
-34            android:name="ipca.budget.a18851.BudgetListActivity"
-34-->C:\Users\luisg\AndroidStudioProjects\A18851\app\src\main\AndroidManifest.xml:19:13-47
+34            android:name="ipca.stock.a18851.ProductDetailActivity"
+34-->C:\Users\luisg\AndroidStudioProjects\A18851\app\src\main\AndroidManifest.xml:19:13-50
 35            android:exported="false" />
 35-->C:\Users\luisg\AndroidStudioProjects\A18851\app\src\main\AndroidManifest.xml:20:13-37
 36        <activity
 36-->C:\Users\luisg\AndroidStudioProjects\A18851\app\src\main\AndroidManifest.xml:21:9-29:20
-37            android:name="ipca.budget.a18851.MainActivity"
+37            android:name="ipca.stock.a18851.MainActivity"
 37-->C:\Users\luisg\AndroidStudioProjects\A18851\app\src\main\AndroidManifest.xml:22:13-41
 38            android:exported="true" >
 38-->C:\Users\luisg\AndroidStudioProjects\A18851\app\src\main\AndroidManifest.xml:23:13-36
@@ -76,7 +76,7 @@
 46-->[androidx.emoji2:emoji2:1.2.0] C:\Users\luisg\.gradle\caches\transforms-3\3ffd57255e6f9966dfb3d4f8b250b487\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
 47            android:name="androidx.startup.InitializationProvider"
 47-->[androidx.emoji2:emoji2:1.2.0] C:\Users\luisg\.gradle\caches\transforms-3\3ffd57255e6f9966dfb3d4f8b250b487\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-48            android:authorities="ipca.budget.a18851.androidx-startup"
+48            android:authorities="ipca.stock.a18851.androidx-startup"
 48-->[androidx.emoji2:emoji2:1.2.0] C:\Users\luisg\.gradle\caches\transforms-3\3ffd57255e6f9966dfb3d4f8b250b487\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
 49            android:exported="false" >
 49-->[androidx.emoji2:emoji2:1.2.0] C:\Users\luisg\.gradle\caches\transforms-3\3ffd57255e6f9966dfb3d4f8b250b487\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
